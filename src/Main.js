@@ -1,3 +1,4 @@
+import React from 'react';
 import {ProfileImage} from './ProfileImage';
 import {Description} from './Description';
 import {Row} from './Row';
